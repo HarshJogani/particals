@@ -19,3 +19,16 @@ canvas {
     background-size: cover;
     background-position: 50% 50%;
 }
+
+.con {
+    display: block;
+    justify-content: baseline;
+    justify-self: unset;
+    align-items: center;
+    text-emphasis: none;
+    text-align: center;
+    position: relative;
+    position: absolute;
+    background-color: aliceblue;
+    grid-template: calc(200vh -500px);
+}
